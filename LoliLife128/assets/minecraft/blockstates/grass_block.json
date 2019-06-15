@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "block/grass_block", "weight": 10 },
+            { "model": "block/grass_block_01", "weight": 10 },
+            { "model": "block/grass_block_02", "weight": 2 },
+            { "model": "block/grass_block_03", "weight": 2 }
+        ],
+        "snowy=true":  { "model": "block/grass_block_snow" }
+    }
+}
