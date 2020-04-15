@@ -4,6 +4,7 @@
 
     "parent": "block/cube_all",
     "textures": {
+        "particle": "block/acacia_log_01",
         "loli_log": "block/acacia_log_01",
         "loli_log_top": "block/acacia_log_top"
     },
