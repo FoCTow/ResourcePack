@@ -1,0 +1,9 @@
+{
+    "author": "LoliLife textures by FoC_Tow and Fluffy_Pawz",
+    "lolilife": "spread the love! <3",
+
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/sand"
+    }
+}

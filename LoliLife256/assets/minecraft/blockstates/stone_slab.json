@@ -1,13 +1,18 @@
 {
+    "author": "LoliLife textures by FoC_Tow and Fluffy_Pawz",
+    "lolilife": "spread the love! <3",
+
     "variants": {
         "type=bottom"   : [
             { "model": "block/stone_slab" },
             { "model": "block/stone_slab_01" }
         ],
+
         "type=top"      : [
              { "model": "block/stone_slab_top" },
              { "model": "block/stone_slab_top_01" }
          ],
+
         "type=double"   : { "model": "block/stone" }
     }
 }

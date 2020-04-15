@@ -1,0 +1,25 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/dirt", 	"weight": 10 },
+			{ "model": "block/dirt", 	"weight": 10, "y":90 },
+            { "model": "block/dirt", 	"weight": 10, "y":180 },
+            { "model": "block/dirt", 	"weight": 10, "y":270 },
+			
+			{ "model": "block/dirt_01", "weight": 4 },
+			{ "model": "block/dirt_01", "weight": 4, "y":90 },
+			{ "model": "block/dirt_01", "weight": 4, "y":180 },
+			{ "model": "block/dirt_01", "weight": 4, "y":270 },
+			
+			{ "model": "block/dirt_02", "weight": 2 },
+			{ "model": "block/dirt_02", "weight": 2, "y":90 },
+			{ "model": "block/dirt_02", "weight": 2, "y":180 },
+			{ "model": "block/dirt_02", "weight": 2, "y":270 },
+
+			{ "model": "block/dirt_03", "weight": 10 },
+			{ "model": "block/dirt_03", "weight": 10, "y":90 },
+			{ "model": "block/dirt_03", "weight": 10, "y":180 },
+			{ "model": "block/dirt_03", "weight": 10, "y":270 }
+		]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "author": "LoliLife textures by FoC_Tow and Fluffy_Pawz",
+    "lolilife": "spread the love! <3",
+
+    "variants": {
+        "axis=y": [
+            { "model": "block/acacia_log" },
+            { "model": "block/acacia_log_01" }
+        ],
+        "axis=z": [
+            { "model": "block/acacia_log", "x": 90 },
+            { "model": "block/acacia_log_01", "x": 90 }
+        ],
+        "axis=x": [
+            { "model": "block/acacia_log", "x": 90, "y": 90 } ,
+            { "model": "block/acacia_log_01", "x": 90, "y": 90 }
+        ]
+    }
+}
+
